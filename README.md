@@ -1,5 +1,3 @@
-# intro-Netpbm-Image-Processor-in-C-.2
-
 
 # Netpbm Image Processor in C (`figproc.c`)
 
